@@ -26,13 +26,15 @@
 .content__text__message {
     font-size: 1rem;
     font-weight: 200;
+    color: var(--secondary-grey);
 }
 
 .content__button {
+    text-decoration: none;
     width: fit-content;
     padding: 16px;
-    background-color: #167BF7;
-    color: #fff;
+    background-color: var(--button-blue);
+    color: var(--default-white);
     border: 0;
     border-radius: 8px;
     font-size: 1rem;

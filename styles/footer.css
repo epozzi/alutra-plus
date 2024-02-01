@@ -14,11 +14,12 @@
 
 .footer__navigation a{
     text-decoration: none;
-    color: #fff;
+    color: var(--default-white);
     font-size: 1rem;
 }
 
 .footer__text {
     font-size: .875rem;
     text-align: center;
+    color: var(--secondary-grey);
 }
