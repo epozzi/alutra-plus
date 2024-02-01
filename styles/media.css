@@ -1,0 +1,37 @@
+@media screen and (max-width: 750px) {
+    .header {
+        background-image: none;
+    }
+
+    .header__combo {
+        padding: 0;
+        margin: 2rem 2rem;
+    }
+
+    .header__combo__image {
+        width: 80vw;
+    }
+
+    .content__section {
+        height: 100vh;
+        display: block;
+        text-align: center;
+    }
+
+    .content__image {
+        width: 70vw;
+    }
+
+    .content__text-container {
+        align-items: center;
+    }
+
+    .devices__description {
+        display: block;
+    }
+
+    .footer__navigation {
+        display: grid;
+    }
+
+}
